@@ -47,6 +47,8 @@ Injecting Hidden Wave -> Freq: 8.5Hz | Vector: [0.6 0.  0.8]
 --- Initializing 3D Inverse Wave-Vector Triangulation Engine ---
 [SERVER OK] Reconstructed 3D Wave Propagation Vector: [ 0.6  0.0  0.8 ]
 
+![GOAA 3D Targeting Map](goaa_3d_targeting_map.png)
+
 =================================================================
          CELESTIAL EVENT LOCATION MAPPED SUCCESSFULLY            
 =================================================================
