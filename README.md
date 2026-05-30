@@ -14,6 +14,7 @@ Instead of measuring the physical displacement of localized interferometer arms 
 ## 🌌 Architectural Overview
 
 GOAA acts as an end-to-end signal processing engine designed to bypass ground-based environmental noise and map deep space events directly on a parallel compute cluster.
+
 [Raw Global Streams] ──> [4th-Order Butterworth Filter] ──> [Cross-Correlation Engine] ──> [3D Least-Squares Inversion] ──> [Celestial Coordinates Map]
 
 ### Key Engineering Features:
