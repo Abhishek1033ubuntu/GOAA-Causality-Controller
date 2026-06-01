@@ -57,5 +57,13 @@ python goaa_seismic_stabilizer.py
 Project Significance
 By pairing inline hardware-level scrubbing with robust software inversion matrices, this suite demonstrates a blueprint for high-precision celestial target acquisition capable of operating under real-world geological and environmental distortion.
 
-
+| Module Name | System Classification | Primary Core Responsibility |
+| :--- | :--- | :--- |
+| `goaa_core_pipeline.py` | Signal Processor | Standard cross-correlation, DSP high-pass filtering, and baseline cross-correlation tracking. |
+| `goaa_nonlinear_inversion_core.py` | Phase Fault Breaker | Bypasses high-noise quadrature phase traps ($\pi/2$ shifts) using non-linear matrix scale overrides. |
+| `goaa_global_triangulation_matrix.py` | Geometric Solver | Scales multi-node geometry to a 6-station array using SVD Least-Squares Inversion. |
+| `goaa_3d_targeting_map.py` | Viewport Render | Generates 3D spatial projections of Earth station topologies and celestial target vectors. |
+| `goaa_dynamic_chirp_generator.py` | Signal Injector | Models non-stationary cosmic events using accelerating frequency and exponential amplitude sweeps. |
+| `goaa_seismic_stabilizer.py` | Telemetry Stabilizer | Eliminates continental crust micro-tremors using instantaneous point-by-point phase realignment. |
+| `goaa_telemetry_parser.py` | Data Ingestion | Parses real-world compliant open-source HDF5/FITS binary telescope packets and extracts Julian timestamps. |
 
