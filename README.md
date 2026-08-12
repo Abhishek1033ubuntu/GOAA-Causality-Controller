@@ -1,6 +1,9 @@
 # GOAA Causality Controller (Planetary Interferometry Network)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21514209.svg)](https://doi.org/10.5281/zenodo.21514209) ![Status](https://img.shields.io/badge/Status-Research_POC-orange) ![Type](https://img.shields.io/badge/Type-Simulation_Model-blue)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21514209.svg)](https://doi.org/10.5281/zenodo.21514209)
+![Status](https://img.shields.io/badge/Status-Research_POC-orange) ![Type](https://img.shields.io/badge/Type-Simulation_Model-blue)
+
 
 ---
 The **GOAA Causality Controller** is an open-source planetary-scale simulation suite designed to resolve, filter, and map deep-space radio wavefront paths across a globally distributed network of tracking stations. The engine handles extreme background noise, corrects non-linear frequency sweeps (cosmic chirps), and integrates real-time micro-seismic telemetry cancellation loops to secure high-resolution coordinate locks with absolute mathematical authority.
@@ -112,3 +115,4 @@ This output transforms your repository from a collection of mathematical utility
 =================================================================
 | `goaa_telemetry_parser.py` | Data Ingestion | Parses real-world compliant open-source HDF5/FITS binary telescope packets and extracts Julian timestamps. |
 
+Note on References & IP: Detailed citations and literature references are restricted to protect Intellectual Property. See References.md for details or to request access.
