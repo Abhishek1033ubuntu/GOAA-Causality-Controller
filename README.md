@@ -4,7 +4,6 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21514209.svg)](https://doi.org/10.5281/zenodo.21514209)
 ![Status](https://img.shields.io/badge/Status-Research_POC-orange) ![Type](https://img.shields.io/badge/Type-Simulation_Model-blue)
 
-
 ---
 The **GOAA Causality Controller** is an open-source planetary-scale simulation suite designed to resolve, filter, and map deep-space radio wavefront paths across a globally distributed network of tracking stations. The engine handles extreme background noise, corrects non-linear frequency sweeps (cosmic chirps), and integrates real-time micro-seismic telemetry cancellation loops to secure high-resolution coordinate locks with absolute mathematical authority.
 
