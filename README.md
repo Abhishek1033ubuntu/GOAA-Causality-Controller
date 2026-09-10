@@ -54,11 +54,13 @@ When tracking an accelerating chirp across 6 moving continental plates, the real
  Seismically Corrected Error:  0.002094887
 -----------------------------------------------------------------
  STATUS: GLOBAL OMNIDIRECTIONAL COORDINATE LOCK SECURED!
-Requirements & Execution
+```
+## Requirements & Execution
 The backend math relies on standard scientific Python libraries. You can execute any module directly inside Google Colab or a local environment:
+```
 pip install numpy scipy matplotlib
 python goaa_seismic_stabilizer.py
-
+```
 ```
 Project Significance
 By pairing inline hardware-level scrubbing with robust software inversion matrices, this suite demonstrates a blueprint for high-precision celestial target acquisition capable of operating under real-world geological and environmental distortion.
