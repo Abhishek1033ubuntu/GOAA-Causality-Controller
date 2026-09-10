@@ -59,6 +59,7 @@ The backend math relies on standard scientific Python libraries. You can execute
 pip install numpy scipy matplotlib
 python goaa_seismic_stabilizer.py
 
+```
 Project Significance
 By pairing inline hardware-level scrubbing with robust software inversion matrices, this suite demonstrates a blueprint for high-precision celestial target acquisition capable of operating under real-world geological and environmental distortion.
 
@@ -113,5 +114,5 @@ This output transforms your repository from a collection of mathematical utility
  STATUS: SOURCE IDENTIFICATION PARAMETERS FULLY RESOLVED
 =================================================================
 | `goaa_telemetry_parser.py` | Data Ingestion | Parses real-world compliant open-source HDF5/FITS binary telescope packets and extracts Julian timestamps. |
-
+```
 Note on References & IP: Detailed citations and literature references are restricted to protect Intellectual Property. See References.md for details or to request access.
