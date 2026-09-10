@@ -61,7 +61,6 @@ The backend math relies on standard scientific Python libraries. You can execute
 pip install numpy scipy matplotlib
 python goaa_seismic_stabilizer.py
 ```
-```
 Project Significance
 By pairing inline hardware-level scrubbing with robust software inversion matrices, this suite demonstrates a blueprint for high-precision celestial target acquisition capable of operating under real-world geological and environmental distortion.
 
