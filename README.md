@@ -1,7 +1,7 @@
 # GOAA Causality Controller (Planetary Interferometry Network)
 
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21514209.svg)](https://doi.org/10.5281/zenodo.21514209)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.21514209-blue?style=for-the-badge&logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.21514209) 
 ![Status](https://img.shields.io/badge/Status-Research_POC-orange) ![Type](https://img.shields.io/badge/Type-Simulation_Model-blue)
 
 ---
