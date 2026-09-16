@@ -139,7 +139,7 @@ Processing real 3-node network strain telemetry (H1-L1-V1) for GW170814 with $50
     ----------------------------------------------------------------
 
 ```
-
+![GOAA v2.0 Sub-Millisecond Phase Alignment](v2_phase_alignment_zoom.png)
 ---
 
 ## 🛠️ Requirements & Execution
