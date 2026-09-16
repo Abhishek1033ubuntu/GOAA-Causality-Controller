@@ -4,6 +4,7 @@
 [![Co-Developed with Gemini](https://img.shields.io/badge/AI%20Collaborator-Gemini%20Support-blueviolet?style=for-the-badge&logo=google)](https://gemini.google.com)
 [![Pipeline Status](https://img.shields.io/badge/Pipeline-Production%20Ready-success?style=for-the-badge)]()
 [![Data Mode](https://img.shields.io/badge/Data%20Mode-Real%20H1--L1--V1%20Telemetry-orange?style=for-the-badge)]()
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22791267-blue?style=for-the-badge&logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.22791267) 
 ![Status](https://img.shields.io/badge/Status-Research_POC-orange) ![Type](https://img.shields.io/badge/Type-Simulation_Model-blue)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
