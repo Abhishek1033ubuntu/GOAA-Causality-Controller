@@ -5,6 +5,7 @@
 [![Pipeline Status](https://img.shields.io/badge/Pipeline-Production%20Ready-success?style=for-the-badge)]()
 [![Data Mode](https://img.shields.io/badge/Data%20Mode-Real%20H1--L1--V1%20Telemetry-orange?style=for-the-badge)]()
 ![Status](https://img.shields.io/badge/Status-Research_POC-orange) ![Type](https://img.shields.io/badge/Type-Simulation_Model-blue)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 The **GOAA Causality Controller** is an open-source planetary-scale telemetry reduction and phase-alignment engine designed to resolve, filter, and map deep-space radio wavefront paths and gravitational wave strain signals across a globally distributed network of tracking stations.
 
